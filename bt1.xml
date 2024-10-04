@@ -1,0 +1,14 @@
+<company>
+    <giam_doc>
+        <ten>Nguyen Van A</ten>
+    </giam_doc>
+    <dia_chi>
+        <street>45 Hang Bai</street>
+        <city>Hanoi</city>
+        <country>Vietnam</country>
+    </dia_chi>
+    <lien_he>
+        <phone>0123456789</phone>
+    </lien_he>
+    <ma_thue>1234567890</ma_thue>
+</company>
